@@ -19,7 +19,7 @@ A simple Python program that generates band name suggestions by combining the us
 
 ---
 
-### 🖼️ Demo
+### Demo
 ![Band Name Generator in action](screenshot.gif)
 
 ### Key Learnings
@@ -27,3 +27,4 @@ A simple Python program that generates band name suggestions by combining the us
 - String manipulation and concatenation
 - Using f-strings for dynamic output
 - Understanding user prompts and newlines (`\n`)
+

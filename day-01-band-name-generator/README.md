@@ -14,6 +14,7 @@ A simple Python program that generates band name suggestions by combining the us
 1. Clone this repository
 2. Navigate to the project folder
 3. Run the script:
+
    ```bash
    python main.py
 
@@ -27,4 +28,5 @@ A simple Python program that generates band name suggestions by combining the us
 - String manipulation and concatenation
 - Using f-strings for dynamic output
 - Understanding user prompts and newlines (`\n`)
+
 

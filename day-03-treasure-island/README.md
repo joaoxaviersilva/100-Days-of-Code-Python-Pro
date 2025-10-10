@@ -18,6 +18,9 @@ A simple Python adventure game where the player makes choices to find the treasu
 2. Navigate to the project folder  
 3. Run the script:
 
+ ```bash
+   python main.py
+   ```
 
 ---
 
@@ -30,3 +33,4 @@ A simple Python adventure game where the player makes choices to find the treasu
 - Using nested conditionals to control program logic  
 - Handling user input and converting it to lowercase for validation  
 - Structuring interactive text-based games in Python
+
